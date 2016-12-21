@@ -1,0 +1,11 @@
+{"employee":{
+  "employeetype": "Full Time",
+  "dept": "tech",
+  "phoneextn": 1001,
+  "user": {
+    "userid": 1,
+    "firstname": "Shailendra",
+    "lastname": "Soni",
+    "gender": "Male"
+  }
+}}
